@@ -1,0 +1,5 @@
+keeping random values
+for(int i=0){
+putj=0;
+}
+
